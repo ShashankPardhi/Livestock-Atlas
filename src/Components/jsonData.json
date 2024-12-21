@@ -1,0 +1,32 @@
+{
+  "states": [
+    {
+      "state_name": "Maharashtra",
+      "animals": [
+        {
+          "animalname": "Buffalo",
+          "subtypes": [
+            { "name": "Marathwadi", "path_to_pdf": "/StatePDF/maharashtra/buffalo/marathwadi.pdf" },
+            { "name": "Nagpuri", "path_to_pdf": "/StatePDF/maharashtra/buffalo/nagpuri.pdf" },
+            { "name": "Pandharpuri", "path_to_pdf": "/StatePDF/maharashtra/buffalo/pandharpuri.pdf" }
+          ]
+        },
+        {
+          "animalname": "Chicken",
+          "subtypes": [
+            { "name": "Busra", "path_to_pdf": "/StatePDF/maharashtra/chicken/busra.pdf" }
+          ]
+        },
+        {
+          "animalname": "Goat",
+          "subtypes": [
+            { "name": "A", "path_to_pdf": "/StatePDF/maharashtra/goat/berari.pdf" },
+            { "name": "B", "path_to_pdf": "/StatePDF/maharashtra/goat/konkan-kanyal.pdf" },
+            { "name": "C", "path_to_pdf": "/StatePDF/maharashtra/goat/osmanabadi.pdf" },
+            { "name": "D", "path_to_pdf": "/StatePDF/maharashtra/goat/sangamneri.pdf" }
+          ]
+        }
+      ]
+    }
+  ]
+}
