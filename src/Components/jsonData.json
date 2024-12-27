@@ -1,6 +1,1040 @@
 {
   "states": [
     {
+      "state_name": "Andaman and Nicobar Islands",
+      "animals": [
+        {
+          "animalname": "Buffalo",
+          "subtypes": [
+              { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/andaman-nicobar/buffalo/" }
+
+          ]
+        },
+        {
+          "animalname": "Camel",
+          "subtypes": [
+              { "name": "(Camel)", "path_to_pdf": "/StatePDF/andaman-nicobar/camel/" }
+
+          ]
+        },
+        {
+          "animalname": "Cattle",
+          "subtypes": [
+              { "name": "(Cattle)", "path_to_pdf": "/StatePDF/andaman-nicobar/cattle/" }
+
+          ]
+        },
+        {
+          "animalname": "Chicken",
+          "subtypes": [
+            { "name": "Nicobari Poultry (Chicken)", "path_to_pdf": "/StatePDF/andaman-nicobar/chicken/nicobari-poultry.pdf" }
+          ]
+        },
+        {
+          "animalname": "Dog",
+          "subtypes": [
+            { "name": "(Dog)", "path_to_pdf": "/StatePDF/andaman-nicobar/dog/" }
+          ]
+        },
+        {
+          "animalname": "Donkey",
+          "subtypes": [
+            { "name": "(Donkey)", "path_to_pdf": "/StatePDF/andaman-nicobar/donkey/" }
+          ]
+        },
+        {
+          "animalname": "Duck",
+          "subtypes": [
+            { "name": "Andamani (Duck)", "path_to_pdf": "/StatePDF/andaman-nicobar/duck/andamani.pdf" }
+          ]
+        },
+        {
+          "animalname": "Fowl",
+          "subtypes": [
+            { "name": "(Fowl)", "path_to_pdf": "/StatePDF/andaman-nicobar/fowl/" }
+          ]
+        },
+        {
+          "animalname": "Geese",
+          "subtypes": [
+            { "name": "(Geese)", "path_to_pdf": "/StatePDF/andaman-nicobar/geese/" }
+          ]
+        },
+        {
+          "animalname": "Goat",
+          "subtypes": [
+              { "name": "Teressa (Goat)", "path_to_pdf": "/StatePDF/andaman-nicobar/goat/teressa.pdf" },
+              { "name": "Andamani (Goat)", "path_to_pdf": "/StatePDF/andaman-nicobar/goat/andamani.pdf" }
+
+          ]
+        },
+        {
+          "animalname": "Horse & Pony",
+          "subtypes": [
+              { "name": " (Horse & Pony)", "path_to_pdf": "/StatePDF/andaman-nicobar/horse-&-pony/" }
+
+          ]
+        },
+        {
+          "animalname": "Pig",
+          "subtypes": [
+            { "name": "Nicobari (Pig)", "path_to_pdf": "/StatePDF/andaman-nicobar/chicken/nicobari.pdf" },
+            { "name": "Andamani (Pig)", "path_to_pdf": "/StatePDF/andaman-nicobar/pig/andamani.pdf" }
+
+          ]
+        },
+        {
+          "animalname": "Sheep",
+          "subtypes": [
+            { "name": "(Sheep)", "path_to_pdf": "/StatePDF/andaman-nicobar/sheep/" }
+          ]
+        },
+        {
+          "animalname": "Yak",
+          "subtypes": [
+            { "name": "(Yak)", "path_to_pdf": "/StatePDF/andaman-nicobar/yak/" }
+          ]
+        }
+      ]
+    },
+    {
+      "state_name": "Andhra Pradesh",
+      "animals": [
+        {
+          "animalname": "Cattle",
+          "subtypes": [
+            { "name": "Motu (Cattle)", "path_to_pdf": "/StatePDF/andhrapradesh/cattle/motu.pdf" },
+            { "name": "Ongole (Cattle)", "path_to_pdf": "/StatePDF/andhrapradesh/cattle/ongole.pdf" },
+            { "name": "Punganur (Cattle)", "path_to_pdf": "/StatePDF/andhrapradesh/cattle/punganur.pdf" }
+          ]
+        },
+        {
+          "animalname": "Poultry",
+          "subtypes": [
+            { "name": "Aseel (Poultry)", "path_to_pdf": "/StatePDF/andhrapradesh/poultry/aseel.pdf" },
+            { "name": "Danki (Poultry)", "path_to_pdf": "/StatePDF/andhrapradesh/poultry/danki.pdf" },
+            { "name": "Ghagus (Poultry)", "path_to_pdf": "/StatePDF/andhrapradesh/poultry/ghagus.pdf" },
+            { "name": "Kalasthi (Poultry)", "path_to_pdf": "/StatePDF/andhrapradesh/poultry/kalasthi.pdf" }
+          ]
+        },
+        {
+          "animalname": "Sheep",
+          "subtypes": [
+            { "name": "Deccani (Sheep)", "path_to_pdf": "/StatePDF/andhrapradesh/sheep/deccani.pdf" },
+            { "name": "Nellore (Sheep)", "path_to_pdf": "/StatePDF/andhrapradesh/sheep/nellore.pdf" },
+            { "name": "Macherla (Sheep)", "path_to_pdf": "/StatePDF/andhrapradesh/sheep/macherla.pdf" }
+          ]
+        }
+      ]
+    },
+    {
+      "state_name": "Arunachal Pradesh",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+          { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/arunachal-pradesh/buffalo/" }
+
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+          { "name": "(Camel)", "path_to_pdf": "/StatePDF/arunachal-pradesh/camel/" }
+
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+          { "name": "(Cattle)", "path_to_pdf": "/StatePDF/arunachal-pradesh/cattle/" }
+
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Chicken)", "path_to_pdf": "/StatePDF/arunachal-pradesh/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/arunachal-pradesh/dog/" }
+      ]
+    },
+    {
+      "animalname": "Donkey",
+      "subtypes": [
+        { "name": "(Donkey)", "path_to_pdf": "/StatePDF/arunachal-pradesh/donkey/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/arunachal-pradesh/duck/" }
+      ]
+    },
+    {
+      "animalname": "Fowl",
+      "subtypes": [
+        { "name": "(Fowl)", "path_to_pdf": "/StatePDF/arunachal-pradesh/fowl/" }
+      ]
+    },
+    {
+      "animalname": "Geese",
+      "subtypes": [
+        { "name": "(Geese)", "path_to_pdf": "/StatePDF/arunachal-pradesh/geese/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+          { "name": "(Goat)", "path_to_pdf": "/StatePDF/arunachal-pradesh/goat/" }
+
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+          { "name": "Bhutia (Horse & Pony)", "path_to_pdf": "/StatePDF/arunachal-pradesh/horse-&-pony/bhutia.pdf" }
+
+      ]
+    },
+    {
+      "animalname": "Mithun",
+      "subtypes": [
+          { "name": "Mithun (Mithun)", "path_to_pdf": "/StatePDF/arunachal-pradesh/mithun/mithun.pdf" }
+
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/arunachal-pradesh/pig/" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Tibetan Sheep (Sheep)", "path_to_pdf": "/StatePDF/arunachal-pradesh/sheep/tibetan-sheep.pdf" }
+      ]
+    },
+    {
+      "animalname": "Yak",
+      "subtypes": [
+        { "name": "Arunachali Yak (Yak)", "path_to_pdf": "/StatePDF/arunachal-pradesh/yak/arunachali-yak.pdf" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Assam",
+      "animals": [
+        {
+          "animalname": "Buffalo",
+          "subtypes": [
+            { "name": "Luit (Swamp) (Buffalo)", "path_to_pdf": "/StatePDF/assam/buffalo/luit-(swamp).pdf" }
+          ]
+        },
+        {
+          "animalname": "Cattle",
+          "subtypes": [
+            { "name": "Lakhimi (Cattle)", "path_to_pdf": "/StatePDF/assam/cattle/lakhimi.pdf" }
+          ]
+        },
+        {
+          "animalname": "Chicken",
+          "subtypes": [
+            { "name": "Daothigir (Chicken)", "path_to_pdf": "/StatePDF/assam/chicken/daothigir.pdf" },
+            { "name": "Miri (Chicken)", "path_to_pdf": "/StatePDF/assam/chicken/miri.pdf" }
+          ]
+        },
+        {
+          "animalname": "Duck",
+          "subtypes": [
+            { "name": "Pati Duck (Duck)", "path_to_pdf": "/StatePDF/assam/duck/pati-duck.pdf" }
+          ]
+        },
+        {
+          "animalname": "Goat",
+          "subtypes": [
+            { "name": "Assam Hill (Goat)", "path_to_pdf": "/StatePDF/assam/goat/assam-hill.pdf" }
+          ]
+        },
+        {
+          "animalname": "Horse",
+          "subtypes": [
+            { "name": "Manipuri (Horse)", "path_to_pdf": "/StatePDF/assam/horse/manipuri.pdf" }
+          ]
+        },
+        {
+          "animalname": "Pig",
+          "subtypes": [
+            { "name": "Doom (Pig)", "path_to_pdf": "/StatePDF/assam/goat/doom.pdf" }
+          ]
+        }
+      ]
+    },
+    {
+      "state_name": "Bihar",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/bihar/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Lakhimi (Cattle)", "path_to_pdf": "/StatePDF/bihar/cattle/bachaur.pdf" },
+        { "name": "Gangatiri (Cattle)", "path_to_pdf": "/StatePDF/bihar/cattle/gangatiri.pdf" },
+        { "name": "Purnea (Cattle)", "path_to_pdf": "/StatePDF/bihar/cattle/purnea.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "(Chicken)", "path_to_pdf": "/StatePDF/bihar/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/bihar/dog/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "Maithili (Duck)", "path_to_pdf": "/StatePDF/bihar/duck/maithili.pdf" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "(Goat)", "path_to_pdf": "/StatePDF/bihar/goat/" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/bihar/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "Purnea Pig (Pig)", "path_to_pdf": "/StatePDF/bihar/pig/purnea-pig.pdf" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Shahbadi (Sheep)", "path_to_pdf": "/StatePDF/bihar/sheep/shahbadi.pdf" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Chandigarh",
+    "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/chandigarh/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Belahi (Cattle)", "path_to_pdf": "/StatePDF/chandigarh/cattle/belahi.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "(Chicken)", "path_to_pdf": "/StatePDF/chandigarh/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/chandigarh/dog/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "Maithili (Duck)", "path_to_pdf": "/StatePDF/chandigarh/duck/maithili.pdf" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "(Goat)", "path_to_pdf": "/StatePDF/chandigarh/goat/" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/chandigarh/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/chandigarh/pig" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "(Sheep)", "path_to_pdf": "/StatePDF/chandigarh/sheep/" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Chhattisgarh",
+  "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Murrah (Buffalo)", "path_to_pdf": "/StatePDF/delhi/buffalo/murrah.pdf" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "(Camel)", "path_to_pdf": "/StatePDF/delhi/camel/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "(Cattle)", "path_to_pdf": "/StatePDF/delhi/cattle/" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "(Chicken)", "path_to_pdf": "/StatePDF/delhi/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/delhi/dog/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/delhi/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "(Goat)", "path_to_pdf": "/StatePDF/delhi/goat/" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/delhi/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/delhi/pig" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "(Sheep)", "path_to_pdf": "/StatePDF/delhi/sheep/" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Goa",
+    "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/goa/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Konkan Kapila (Cattle)", "path_to_pdf": "/StatePDF/goa/cattle/konkan-kapila.pdf" },
+        { "name": "Shweta Kapila (Cattle)", "path_to_pdf": "/StatePDF/goa/cattle/shweta-kapila.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "(Chicken)", "path_to_pdf": "/StatePDF/goa/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/goa/dog/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/goa/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "(Goat)", "path_to_pdf": "/StatePDF/goa/goat/" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/goa/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "Agonda Goan (Pig)", "path_to_pdf": "/StatePDF/goa/pig/agonda-goan.pdf" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "(Sheep)", "path_to_pdf": "/StatePDF/goa/sheep/" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Gujarat",
+    "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Banni (Buffalo)", "path_to_pdf": "/StatePDF/gujarat/buffalo/banni.pdf" },
+        { "name": "Jaffarabadi (Buffalo)", "path_to_pdf": "/StatePDF/gujarat/buffalo/jaffarabadi.pdf" },
+        { "name": "Mehsana (Buffalo)", "path_to_pdf": "/StatePDF/gujarat/buffalo/mehsana.pdf" },
+        { "name": "Surti (Buffalo)", "path_to_pdf": "/StatePDF/gujarat/buffalo/surti.pdf" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "Kharai (Camel)", "path_to_pdf": "/StatePDF/gujarat/camel/kharai.pdf" },
+        { "name": "Kuttchi (Camel)", "path_to_pdf": "/StatePDF/gujarat/camel/kuttchi.pdf" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Dagri (Cattle)", "path_to_pdf": "/StatePDF/gujarat/cattle/dagri.pdf"},
+        { "name": "Dangi (Cattle)", "path_to_pdf": "/StatePDF/gujarat/cattle/dangi.pdf"},
+        { "name": "Gir (Cattle)", "path_to_pdf": "/StatePDF/gujarat/cattle/gri.pdf"},
+        { "name": "Kankrej (Cattle)", "path_to_pdf": "/StatePDF/gujarat/cattle/kankrej.pdf"},
+        { "name": "Nari (Cattle)", "path_to_pdf": "/StatePDF/gujarat/cattle/nari.pdf"},
+        { "name": "Tharparkar (Cattle)", "path_to_pdf": "/StatePDF/gujarat/cattle/tharparkar.pdf"}
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Ankleshwar (Chicken)", "path_to_pdf": "/StatePDF/gujarat/chicken/ankleshwar.pdf" },
+        { "name": "Busra (Chicken)", "path_to_pdf": "/StatePDF/gujarat/chicken/busra.pdf" },
+        { "name": "Aravali (Chicken)", "path_to_pdf": "/StatePDF/gujarat/chicken/aravali.pdf" }
+      ]
+    },
+    {
+      "animalname": "Donkey",
+      "subtypes": [
+        { "name": "Halari (Donkey)", "path_to_pdf": "/StatePDF/gujarat/donkey/halari.pdf"},
+        { "name": "Kachchhi (Donkey)", "path_to_pdf": "/StatePDF/gujarat/donkey/kachchhi.pdf"}
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Gohilwadi (Goat)", "path_to_pdf": "/StatePDF/gujarat/goat/gohilwadi.pdf" },
+        { "name": "Kahmi (Goat)", "path_to_pdf": "/StatePDF/gujarat/goat/kahmi.pdf" },
+        { "name": "Kutchi (Goat)", "path_to_pdf": "/StatePDF/gujarat/goat/kutchi.pdf" },
+        { "name": "Mehsana (Goat)", "path_to_pdf": "/StatePDF/gujarat/goat/mehsana.pdf" },
+        { "name": "Sirohi (Goat)", "path_to_pdf": "/StatePDF/gujarat/goat/sirohi.pdf" },
+        { "name": "Surti (Goat)", "path_to_pdf": "/StatePDF/gujarat/goat/surti.pdf" },
+        { "name": "Zalawadi (Goat)", "path_to_pdf": "/StatePDF/gujarat/goat/zalawadi.pdf" }
+      ]
+    },
+    {
+      "animalname": "Horse",
+      "subtypes": [
+        { "name": "Kachchi Sindhi (Horse)", "path_to_pdf": "/StatePDF/gujarat/horse/kachchi-sindhi.pdf" },
+        { "name": "Kathiawari(Horse)", "path_to_pdf": "/StatePDF/gujarat/horse/kathiawari.pdf" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Marwari (Sheep)", "path_to_pdf": "/StatePDF/gujarat/sheep/marwari.pdf" },
+        { "name": "Panchali (Sheep)", "path_to_pdf": "/StatePDF/gujarat/sheep/panchali.pdf" },
+        { "name": "Patanwadi (Sheep)", "path_to_pdf": "/StatePDF/gujarat/sheep/patanwadi.pdf" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Haryana",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Murrah (Buffalo)", "path_to_pdf": "/StatePDF/haryana/buffalo/murrah.pdf" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "Mewati (Camel)", "path_to_pdf": "/StatePDF/haryana/camel/mewati.pdf" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Belahi (Cattle)", "path_to_pdf": "/StatePDF/haryana/cattle/belahi.pdf" },
+        { "name": "Hariana (Cattle)", "path_to_pdf": "/StatePDF/haryana/cattle/hariana.pdf" },
+        { "name": "Mewati (Cattle)", "path_to_pdf": "/StatePDF/haryana/cattle/mewati.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Punjab Brown (Chicken)", "path_to_pdf": "/StatePDF/haryana/chicken/punjab-brown.pdf" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/haryana/dog/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/haryana/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "(Goat)", "path_to_pdf": "/StatePDF/haryana/goat/" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/haryana/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/haryana/pig" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Nali (Sheep)", "path_to_pdf": "/StatePDF/haryana/sheep/nali.pdf" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Himachal Pradesh",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Gojri Buffalo (Buffalo)", "path_to_pdf": "/StatePDF/himachal-pradesh/buffalo/gojri-buffalo.pdf" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "(Camel)", "path_to_pdf": "/StatePDF/himachal-pradesh/camel/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Himachali Pahari (Cattle)", "path_to_pdf": "/StatePDF/himachal-pradesh/cattle/himachali-pahari.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "(Chicken)", "path_to_pdf": "/StatePDF/himachal-pradesh/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Donkey",
+      "subtypes": [
+        { "name": "Spiti (Donkey)", "path_to_pdf": "/StatePDF/himachal-pradesh/dog/Spiti.pdf" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/himachal-pradesh/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Chegu (Goat)", "path_to_pdf": "/StatePDF/himachal-pradesh/goat/chegu.pdf" },
+        { "name": "Gaddi (Goat)", "path_to_pdf": "/StatePDF/himachal-pradesh/goat/gaddi.pdf" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "Spiti (Horse & Pony)", "path_to_pdf": "/StatePDF/himachal-pradesh/horse-&-pony/spiti.pdf" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/himachal-pradesh/pig" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Gaddi Sheep (Sheep)", "path_to_pdf": "/StatePDF/himachal-pradesh/sheep/gaddi-sheep.pdf" },
+        { "name": "Rampur Bushair (Sheep)", "path_to_pdf": "/StatePDF/himachal-pradesh/sheep/rampur-bushair.pdf" }
+      ]
+    },
+    {
+      "animalname": "Yak",
+      "subtypes": [
+        { "name": "(Yak)", "path_to_pdf": "/StatePDF/himachal-pradesh/yak/" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Jammu and Kashmir",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "Double Humped (Camel)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/camel/double-humped.pdf" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Ladakhi (Cattle)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/cattle/ladakhi.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Kashmir Favorolla (Chicken)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/chicken/kashmir-favorolla.pdf" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/dog/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/duck/" }
+      ]
+    },
+    {
+      "animalname": "Donkey",
+      "subtypes": [
+        { "name": "(Donkey)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/donkey/" }
+      ]
+    },
+    {
+      "animalname": "Geese",
+      "subtypes": [
+        { "name": "Kashmir Anz Geese (Geese)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/geese/kashmir-anz-geese.pdf" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Bhakarwali Goat (Goat)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/goat/bhakarwali-goat.pdf" },
+        { "name": "Changthangi (Goat)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/goat/changthangi.pdf" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "Zanskari (Horse & Pony)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/horse-&-pony/zanskari.pdf" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/pig" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Bhakarwal Sheep (Sheep)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/sheep/bhakarwal-sheep.pdf" },
+        { "name": "Changthangi Sheep (Sheep)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/sheep/changthangi-sheep.pdf" },
+        { "name": "Gurez (Sheep)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/sheep/gurez.pdf" },
+        { "name": "Karnah  (Sheep)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/sheep/karnah.pdf" },
+        { "name": "Poonchi (Sheep)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/sheep/poonchi.pdf" }
+      ]
+    },
+    {
+      "animalname": "Yak",
+      "subtypes": [
+        { "name": "(Yak)", "path_to_pdf": "/StatePDF/jammu-&-kashmir/yak/" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Jharkhand",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/jharkhand/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "(Camel)", "path_to_pdf": "/StatePDF/jharkhand/camel/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "(Cattle)", "path_to_pdf": "/StatePDF/jharkhand/cattle/" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "(Chicken)", "path_to_pdf": "/StatePDF/jharkhand/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/jharkhand/dog/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/jharkhand/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "(Goat)", "path_to_pdf": "/StatePDF/jharkhand/goat/" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/jharkhand/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "Purnea Pig (Pig)", "path_to_pdf": "/StatePDF/jharkhand/pig/purnea-pig.pdf" },
+        { "name": "Banda (Pig)", "path_to_pdf": "/StatePDF/jharkhand/pig/" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Chottanagpuri (Sheep)", "path_to_pdf": "/StatePDF/jharkhand/sheep/chottanagpuri.pdf" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Karnataka",
+      "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Dharwadi (Buffalo)", "path_to_pdf": "/StatePDF/karnataka/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Amritmahal (Cattle)", "path_to_pdf": "/StatePDF/karnataka/cattle/amritmahal.pdf" },
+        { "name": "Deoni (Cattle)", "path_to_pdf": "/StatePDF/karnataka/cattle/deoni.pdf" },
+        { "name": "Hallikar (Cattle)", "path_to_pdf": "/StatePDF/karnataka/cattle/hallikar.pdf" },
+        { "name": "Khillar (Cattle)", "path_to_pdf": "/StatePDF/karnataka/cattle/khillar.pdf" },
+        { "name": "Krishna Valley (Cattle)", "path_to_pdf": "/StatePDF/karnataka/cattle/krishna-valley.pdf" },
+        { "name": "Malnad Gidda (Cattle)", "path_to_pdf": "/StatePDF/karnataka/cattle/malnad-gidda.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Ghagus (Chicken)", "path_to_pdf": "/StatePDF/karnataka/chicken/ghagus.pdf" }
+      ]
+    },
+
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Bidri (Goat)", "path_to_pdf": "/StatePDF/karnataka/goat/bidri.pdf" },
+        { "name": "Nandidurga (Goat)", "path_to_pdf": "/StatePDF/karnataka/goat/nandidurga.pdf" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Bellary (Sheep)", "path_to_pdf": "/StatePDF/karnataka/sheep/bellary.pdf" },
+        { "name": "Deccani (Sheep)", "path_to_pdf": "/StatePDF/karnataka/sheep/deccani.pdf" },
+        { "name": "Hassan (Sheep)", "path_to_pdf": "/StatePDF/karnataka/sheep/hassan.pdf" },
+        { "name": "Kenguri (Sheep)", "path_to_pdf": "/StatePDF/karnataka/sheep/kenguri.pdf" },
+        { "name": "Mandya (Sheep)", "path_to_pdf": "/StatePDF/karnataka/sheep/mandya.pdf" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Kerala",
+    "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/kerala/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Vechur (Cattle)", "path_to_pdf": "/StatePDF/kerala/cattle/vechur.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Tellichery (Chicken)", "path_to_pdf": "/StatePDF/kerala/chicken/tellichery.pdf" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/kerala/dog/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/kerala/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Attapady Black (Goat)", "path_to_pdf": "/StatePDF/kerala/goat/attapady-black.pdf " },
+        { "name": "Malabari (Goat)", "path_to_pdf": "/StatePDF/kerala/goat/malabari.pdf " }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/kerala/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/kerala/pig" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "(Sheep)", "path_to_pdf": "/StatePDF/kerala/sheep/" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Madhya Pradesh",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Bhadawari (Buffalo)", "path_to_pdf": "/StatePDF/madhya-pradesh/buffalo/bhadawari.pdf" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "Malvi (Camel)", "path_to_pdf": "/StatePDF/madhya-pradesh/camel/malvi.pdf" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Gaolao (Cattle)", "path_to_pdf": "/StatePDF/madhya-pradesh/cattle/gaolao.pdf" },
+        { "name": "Kenkatha (Cattle)", "path_to_pdf": "/StatePDF/madhya-pradesh/cattle/kenkatha.pdf" },
+        { "name": "Malvi (Cattle)", "path_to_pdf": "/StatePDF/madhya-pradesh/cattle/malvi.pdf" },
+        { "name": "Nimari (Cattle)", "path_to_pdf": "/StatePDF/madhya-pradesh/cattle/nimari.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Kadaknath (Chicken)", "path_to_pdf": "/StatePDF/madhya-pradesh/chicken/kadaknath.pdf" }
+      ]
+    },
+   
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Jalauni (Sheep)", "path_to_pdf": "/StatePDF/madhya-pradesh/sheep/jalauni.pdf" }
+      ]
+    }
+  ]
+    },
+    {
       "state_name": "Maharashtra",
       "animals": [
         {
@@ -54,6 +1088,1121 @@
           ]
         }
       ]
+    },
+    {
+      "state_name": "Manipur",
+    "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Luit (Swamp) (Buffalo)", "path_to_pdf": "/StatePDF/manipur/buffalo/luit-(Swamp).pdf" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "(Cattle)", "path_to_pdf": "/StatePDF/manipur/cattle/" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Kaunayen (Chicken)", "path_to_pdf": "/StatePDF/manipur/chicken/kaunayen.pdf" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/manipur/dog/" }
+      ]
+    },
+    {
+      "animalname": "Donkey",
+      "subtypes": [
+        { "name": "(Donkey)", "path_to_pdf": "/StatePDF/manipur/donkey/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/manipur/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "(Goat)", "path_to_pdf": "/StatePDF/manipur/goat/" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "Manipuri (Horse & Pony)", "path_to_pdf": "/StatePDF/manipur/horse-&-pony/manipuri.pdf" }
+      ]
+    },
+    {
+      "animalname": "Mithun",
+      "subtypes": [
+        { "name": "Mithun (Mithun)", "path_to_pdf": "/StatePDF/manipur/mithun/mithun.pdf" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "Manipuri Black (Pig)", "path_to_pdf": "/StatePDF/manipur/pig/" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "(Sheep)", "path_to_pdf": "/StatePDF/manipur/sheep/" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Meghalaya",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/meghalaya/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Masilum (Cattle)", "path_to_pdf": "/StatePDF/meghalaya/cattle/" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Chittagong (Chicken)", "path_to_pdf": "/StatePDF/meghalaya/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/meghalaya/dog/" }
+      ]
+    },
+    {
+      "animalname": "Donkey",
+      "subtypes": [
+        { "name": "(Donkey)", "path_to_pdf": "/StatePDF/meghalaya/donkey/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/meghalaya/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Assam Hill (Goat)", "path_to_pdf": "/StatePDF/meghalaya/goat/assam-hill.pdf" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/meghalaya/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "Niang Megha (Pig)", "path_to_pdf": "/StatePDF/meghalaya/pig/niang-megha.pdf" },
+        { "name": "Wak Chambil (Pig)", "path_to_pdf": "/StatePDF/meghalaya/pig/" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "(Sheep)", "path_to_pdf": "/StatePDF/meghalaya/sheep/" }
+      ]
+    },
+    {
+      "animalname": "Yak",
+      "subtypes": [
+        { "name": "(Yak)", "path_to_pdf": "/StatePDF/meghalaya/yak/" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Mizoram",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/mizoram/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "(Cattle)", "path_to_pdf": "/StatePDF/mizoram/cattle/" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "(Chicken)", "path_to_pdf": "/StatePDF/mizoram/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/mizoram/dog/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/mizoram/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "(Goat)", "path_to_pdf": "/StatePDF/mizoram/goat/" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/mizoram/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Mithun",
+      "subtypes": [
+          { "name": "Mithun (Mithun)", "path_to_pdf": "/StatePDF/mizoram/mithun/mithun.pdf" }
+
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "Zovawk (Pig)", "path_to_pdf": "/StatePDF/mizoram/pig/zovawk.pdf" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "(Sheep)", "path_to_pdf": "/StatePDF/mizoram/sheep/" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Nagaland",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/nagaland/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "(Camel)", "path_to_pdf": "/StatePDF/nagaland/camel/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Thutho (Cattle)", "path_to_pdf": "/StatePDF/nagaland/cattle/thutho.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "(Chicken)", "path_to_pdf": "/StatePDF/nagaland/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/nagaland/dog/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/nagaland/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Sumi Ne (Goat)", "path_to_pdf": "/StatePDF/nagaland/goat/sumi-ne.pdf" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/nagaland/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Mithun",
+      "subtypes": [
+          { "name": "Mithun (Mithun)", "path_to_pdf": "/StatePDF/nagaland/mithun/mithun.pdf" }
+
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "Tenyi Vo (Pig)", "path_to_pdf": "/StatePDF/nagaland/pig/tenyi-vo.pdf" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "(Sheep)", "path_to_pdf": "/StatePDF/nagaland/sheep/" }
+      ]
+    },
+    {
+      "animalname": "Yak",
+      "subtypes": [
+        { "name": "(Yak)", "path_to_pdf": "/StatePDF/nagaland/yak/" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Odisha",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Chilika (Buffalo)", "path_to_pdf": "/StatePDF/odisha/buffalo/chilika.pdf" },
+        { "name": "Kalahandi (Buffalo)", "path_to_pdf": "/StatePDF/odisha/buffalo/kalahandi.pdf" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "(Camel)", "path_to_pdf": "/StatePDF/odisha/camel/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Binjharpuri (Cattle)", "path_to_pdf": "/StatePDF/odisha/cattle/binjharpuri.pdf" },
+        { "name": "Ghumusari (Cattle)", "path_to_pdf": "/StatePDF/odisha/cattle/ghumusari.pdf" },
+        { "name": "Khariar (Cattle)", "path_to_pdf": "/StatePDF/odisha/cattle/khariar.pdf" },
+        { "name": "Motu (Cattle)", "path_to_pdf": "/StatePDF/odisha/cattle/motu.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Aseel (Chicken)", "path_to_pdf": "/StatePDF/odisha/chicken/aseel.pdf" },
+        { "name": "Hansli (Chicken)", "path_to_pdf": "/StatePDF/odisha/chicken/hansli.pdf" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/odisha/dog/" }
+      ]
+    },
+    {
+      "animalname": "Donkey",
+      "subtypes": [
+        { "name": "(Donkey)", "path_to_pdf": "/StatePDF/odisha/donkey/" }
+      ]
+    },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/odisha/duck/" }
+      ]
+    },
+    {
+      "animalname": "Fowl",
+      "subtypes": [
+        { "name": "(Fowl)", "path_to_pdf": "/StatePDF/odisha/fowl/" }
+      ]
+    },
+    {
+      "animalname": "Geese",
+      "subtypes": [
+        { "name": "(Geese)", "path_to_pdf": "/StatePDF/odisha/geese/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Ganjam (Goat)", "path_to_pdf": "/StatePDF/odisha/goat/ganjam.pdf" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/odisha/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/odisha/pig" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Balangir (Sheep)", "path_to_pdf": "/StatePDF/odisha/sheep/balangir.pdf" },
+        { "name": "Ganjam-sheep (Sheep)", "path_to_pdf": "/StatePDF/odisha/sheep/ganjam-sheep.pdf" },
+        { "name": "Kendrapada (Sheep)", "path_to_pdf": "/StatePDF/odisha/sheep/kendrapada.pdf" }
+      ]
+    },
+    {
+        "animalname": "Yak",
+        "subtypes": [
+          { "name": "(Yak)", "path_to_pdf": "/StatePDF/odisha/yak/" }
+        ]
+      }
+  ]
+    },
+    {
+      "state_name": "Puducherry",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/puducherry/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "(Camel)", "path_to_pdf": "/StatePDF/puducherry/camel/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "(Cattle)", "path_to_pdf": "/StatePDF/puducherry/cattle/" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Tellichery (Chicken)", "path_to_pdf": "/StatePDF/puducherry/chicken/tellichery.pdf" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/puducherry/dog/" }
+      ]
+    },
+    {
+        "animalname": "Donkey",
+        "subtypes": [
+          { "name": "(Donkey)", "path_to_pdf": "/StatePDF/puducherry/donkey/" }
+        ]
+      },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/puducherry/duck/" }
+      ]
+    },
+    {
+      "animalname": "Fowl",
+      "subtypes": [
+        { "name": "(Fowl)", "path_to_pdf": "/StatePDF/puducherry/fowl/" }
+      ]
+    },
+    {
+      "animalname": "Geese",
+      "subtypes": [
+        { "name": "(Geese)", "path_to_pdf": "/StatePDF/puducherry/geese/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "(Goat)", "path_to_pdf": "/StatePDF/puducherry/goat/" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/puducherry/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/puducherry/pig" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "(Sheep)", "path_to_pdf": "/StatePDF/puducherry/sheep/" }
+      ]
+    },
+    {
+        "animalname": "Yak",
+        "subtypes": [
+          { "name": "(Yak)", "path_to_pdf": "/StatePDF/puducherry/yak/" }
+        ]
+      }
+  ]
+    },
+    {
+      "state_name": "Punjab",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Gojri Buffalo (Buffalo)", "path_to_pdf": "/StatePDF/punjab/buffalo/gojri-buffalo.pdf" },
+        { "name": "Nili Ravi (Buffalo)", "path_to_pdf": "/StatePDF/punjab/buffalo/nili-ravi.pdf" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "(Camel)", "path_to_pdf": "/StatePDF/punjab/camel/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Sahiwal (Cattle)", "path_to_pdf": "/StatePDF/punjab/cattle/sahiwal.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Punjab Brown(Chicken)", "path_to_pdf": "/StatePDF/punjab/chicken/punjab-brown.pdf" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/punjab/dog/" }
+      ]
+    },
+    {
+        "animalname": "Donkey",
+        "subtypes": [
+          { "name": "(Donkey)", "path_to_pdf": "/StatePDF/punjab/donkey/" }
+        ]
+      },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/punjab/duck/" }
+      ]
+    },
+    {
+        "animalname": "Fowl",
+        "subtypes": [
+          { "name": "(Fowl)", "path_to_pdf": "/StatePDF/punjab/fowl/" }
+        ]
+      },
+      {
+        "animalname": "Geese",
+        "subtypes": [
+          { "name": "(Geese)", "path_to_pdf": "/StatePDF/punjab/geese/" }
+        ]
+      },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Beetal (Goat)", "path_to_pdf": "/StatePDF/punjab/goat/beetal.pdf" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/punjab/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/punjab/pig" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Kajali (Sheep)", "path_to_pdf": "/StatePDF/punjab/sheep/kajali.pdf" }
+      ]
+    },
+    {
+        "animalname": "Yak",
+        "subtypes": [
+          { "name": "(Yak)", "path_to_pdf": "/StatePDF/punjab/yak/" }
+        ]
+      }
+  ]
+    },
+    {
+      "state_name": "Rajasthan",
+      "animals": [
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "Bikaneri (Camel)", "path_to_pdf": "/StatePDF/rajasthan/camel/bikaneri.pdf " },
+        { "name": "Jaisalmeri (Camel)", "path_to_pdf": "/StatePDF/rajasthan/camel/jaisalmeri.pdf " },
+        { "name": "Jalori (Camel)", "path_to_pdf": "/StatePDF/rajasthan/camel/" },
+        { "name": "Marwari (Camel)", "path_to_pdf": "/StatePDF/rajasthan/camel/marwari.pdf " },
+        { "name": "Mewari (Camel)", "path_to_pdf": "/StatePDF/rajasthan/camel/mewari.pdf " },
+        { "name": "Mewati (Camel)", "path_to_pdf": "/StatePDF/rajasthan/camel/mewati.pdf " }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Hariana (Cattle)", "path_to_pdf": "/StatePDF/rajasthan/cattle/hariana.pdf " },
+        { "name": "Kankrej (Cattle)", "path_to_pdf": "/StatePDF/rajasthan/cattle/kankrej.pdf " },
+        { "name": "Mewati (Cattle)", "path_to_pdf": "/StatePDF/rajasthan/cattle/mewati.pdf " },
+        { "name": "Nagori (Cattle)", "path_to_pdf": "/StatePDF/rajasthan/cattle/nagori.pdf " },
+        { "name": "Nari (Cattle)", "path_to_pdf": "/StatePDF/rajasthan/cattle/nari.pdf " },
+        { "name": "Rathi (Cattle)", "path_to_pdf": "/StatePDF/rajasthan/cattle/rathi.pdf " },
+        { "name": "Sahiwal (Cattle)", "path_to_pdf": "/StatePDF/rajasthan/cattle/sahiwal.pdf " },
+        { "name": "Sanchori (Cattle)", "path_to_pdf": "/StatePDF/rajasthan/cattle/ " },
+        { "name": "Tharparkar (Cattle)", "path_to_pdf": "/StatePDF/rajasthan/cattle/tharparkar.pdf " }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Mewari (Chicken)", "path_to_pdf": "/StatePDF/rajasthan/chicken/mewari.pdf" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Barbari (Goat)", "path_to_pdf": "/StatePDF/rajasthan/goat/barbari.pdf" },
+        { "name": "Jakhrana (Goat)", "path_to_pdf": "/StatePDF/rajasthan/goat/jakhrana.pdf" },
+        { "name": "Marwari (Goat)", "path_to_pdf": "/StatePDF/rajasthan/goat/marwari.pdf" },
+        { "name": "Sirohi (Goat)", "path_to_pdf": "/StatePDF/rajasthan/goat/sirohi.pdf" },
+        { "name": "Sojat (Goat)", "path_to_pdf": "/StatePDF/rajasthan/goat/sojat.pdf" },
+        { "name": "Karauli (Goat)", "path_to_pdf": "/StatePDF/rajasthan/goat/karauli.pdf" },
+        { "name": "Gujari (Goat)", "path_to_pdf": "/StatePDF/rajasthan/goat/gujari.pdf" }
+      ]
+    },
+    {
+      "animalname": "Horse",
+      "subtypes": [
+        { "name": "kachchhi-sindhi (Horse)", "path_to_pdf": "/StatePDF/rajasthan/horse/kachchhi-sindhi.pdf" },
+        { "name": "Marwari (Horse)", "path_to_pdf": "/StatePDF/rajasthan/horse/marwari.pdf" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Chokla (Sheep)", "path_to_pdf": "/StatePDF/rajasthan/sheep/chokla.pdf" },
+        { "name": "Jaisalmeri (Sheep)", "path_to_pdf": "/StatePDF/rajasthan/sheep/jaisalmeri.pdf" },
+        { "name": "Magra (Sheep)", "path_to_pdf": "/StatePDF/rajasthan/sheep/magra.pdf" },
+        { "name": "Malpura (Sheep)", "path_to_pdf": "/StatePDF/rajasthan/sheep/malpura.pdf" },
+        { "name": "Marwari (Sheep)", "path_to_pdf": "/StatePDF/rajasthan/sheep/marwari.pdf" },
+        { "name": "Nali (Sheep)", "path_to_pdf": "/StatePDF/rajasthan/sheep/nali.pdf" },
+        { "name": "Pugal (Sheep)", "path_to_pdf": "/StatePDF/rajasthan/sheep/pugal.pdf" },
+        { "name": "Sonadi (Sheep)", "path_to_pdf": "/StatePDF/rajasthan/sheep/sonadi.pdf" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Sikkim",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/sikkim/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Siri (Cattle)", "path_to_pdf": "/StatePDF/sikkim/cattle/siri.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "(Chicken)", "path_to_pdf": "/StatePDF/sikkim/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/sikkim/dog/" }
+      ]
+    },
+    {
+        "animalname": "Donkey",
+        "subtypes": [
+          { "name": "(Donkey)", "path_to_pdf": "/StatePDF/sikkim/donkey/" }
+        ]
+      },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/sikkim/duck/" }
+      ]
+    },
+    {
+        "animalname": "Fowl",
+        "subtypes": [
+          { "name": "(Fowl)", "path_to_pdf": "/StatePDF/sikkim/fowl/" }
+        ]
+      },
+      {
+        "animalname": "Geese",
+        "subtypes": [
+          { "name": "(Geese)", "path_to_pdf": "/StatePDF/sikkim/geese/" }
+        ]
+      },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "(Goat)", "path_to_pdf": "/StatePDF/sikkim/goat/" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "Bhutia (Horse & Pony)", "path_to_pdf": "/StatePDF/sikkim/horse-&-pony/bhutia.pdf" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/sikkim/pig" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Bonpala (Sheep)", "path_to_pdf": "/StatePDF/sikkim/sheep/bonpala.pdf" }
+      ]
+    },
+    {
+        "animalname": "Yak",
+        "subtypes": [
+          { "name": "(Yak)", "path_to_pdf": "/StatePDF/sikkim/yak/" }
+        ]
+      }
+  ]
+    },
+    {
+      "state_name": "Tamil Nadu",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Bargur (Buffalo)", "path_to_pdf": "/StatePDF/tamilnadu/buffalo/bargur.pdf" },
+        { "name": "Toda (Buffalo)", "path_to_pdf": "/StatePDF/tamilnadu/buffalo/toda.pdf" }
+      ]
+    },
+    
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Bargur (Cattle)", "path_to_pdf": "/StatePDF/tamilnadu/cattle/bargur.pdf" },
+        { "name": "Kangayam (Cattle)", "path_to_pdf": "/StatePDF/tamilnadu/cattle/kangayam.pdf" },
+        { "name": "Pullikulam (Cattle)", "path_to_pdf": "/StatePDF/tamilnadu/cattle/pullikulam.pdf" },
+        { "name": "Umblachery (Cattle)", "path_to_pdf": "/StatePDF/tamilnadu/cattle/umblachery.pdf" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "Rajapalayam (Dog)", "path_to_pdf": "/StatePDF/tamilnadu/dog/" },
+        { "name": "Chippiparai (Dog)", "path_to_pdf": "/StatePDF/tamilnadu/dog/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Kanni-adu (Goat)", "path_to_pdf": "/StatePDF/tamilnadu/goat/kanni-adu.pdf" },
+        { "name": "Kodi-adu (Goat)", "path_to_pdf": "/StatePDF/tamilnadu/goat/kodi-adu.pdf" },
+        { "name": "Salem-black (Goat)", "path_to_pdf": "/StatePDF/tamilnadu/goat/salem-black.pdf" }
+      ]
+    },
+   
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Chevaadu (Sheep)", "path_to_pdf": "/StatePDF/tamilnadu/sheep/chevaadu.pdf" },
+        { "name": "Coimbatore (Sheep)", "path_to_pdf": "/StatePDF/tamilnadu/sheep/coimbatore.pdf" },
+        { "name": "Katchaikatty-black (Sheep)", "path_to_pdf": "/StatePDF/tamilnadu/sheep/katchaikatty-black.pdf" },
+        { "name": "Kilakarsal (Sheep)", "path_to_pdf": "/StatePDF/tamilnadu/sheep/kilakarsal.pdf" },
+        { "name": "Madras-red (Sheep)", "path_to_pdf": "/StatePDF/tamilnadu/sheep/madras-red.pdf" },
+        { "name": "Mecheri (Sheep)", "path_to_pdf": "/StatePDF/tamilnadu/sheep/mecheri.pdf" },
+        { "name": "Nilgiri (Sheep)", "path_to_pdf": "/StatePDF/tamilnadu/sheep/nilgiri.pdf" },
+        { "name": "Ramnad-white (Sheep)", "path_to_pdf": "/StatePDF/tamilnadu/sheep/ramnad-white.pdf" },
+        { "name": "Tiruchi-black (Sheep)", "path_to_pdf": "/StatePDF/tamilnadu/sheep/tiruchi-black.pdf" },
+        { "name": "Vembur (Sheep)", "path_to_pdf": "/StatePDF/tamilnadu/sheep/vembur.pdf" }
+      ]
+    }
+  ]
+    },
+    {
+      "state_name": "Telangana",
+      "animals": [
+        {
+          "animalname": "Buffalo",
+          "subtypes": [
+            { "name": "Poda Thurpu (Buffalo)", "path_to_pdf": "/StatePDF/telangana/buffalo/poda-thurpu.pdf" }
+          ]
+        },
+        {
+          "animalname": "Buffalo",
+          "subtypes": [
+            { "name": "Poda Thurpu (Cattle)", "path_to_pdf": "/StatePDF/telangana/cattle/" }
+          ]
+        }
+      ]
+    },
+    {
+      "state_name": "Tripura",
+    "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/tripura/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "(Cattle)", "path_to_pdf": "/StatePDF/tripura/cattle/" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Chittagong (Chicken)", "path_to_pdf": "/StatePDF/tripura/chicken/" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/tripura/dog/" }
+      ]
+    },
+    {
+        "animalname": "Donkey",
+        "subtypes": [
+          { "name": "(Donkey)", "path_to_pdf": "/StatePDF/tripura/donkey/" }
+        ]
+      },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/tripura/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "(Goat)", "path_to_pdf": "/StatePDF/tripura/goat/" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/tripura/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "Mali (Pig)", "path_to_pdf": "/StatePDF/tripura/pig/mali.pdf" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "(Sheep)", "path_to_pdf": "/StatePDF/tripura/sheep/" }
+      ]
+    },
+    {
+        "animalname": "Yak",
+        "subtypes": [
+          { "name": "(Yak)", "path_to_pdf": "/StatePDF/tripura/yak/" }
+        ]
+      }
+  ]
+    },
+    {
+      "state_name": "Uttar Pradesh",
+      "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Bhadawari (Buffalo)", "path_to_pdf": "/StatePDF/uttarpradesh/buffalo/bhadawari.pdf" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "(Camel)", "path_to_pdf": "/StatePDF/uttarpradesh/camel/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Gangatiri (Cattle)", "path_to_pdf": "/StatePDF/uttarpradesh/cattle/gangatiri.pdf" },
+        { "name": "Hariana (Cattle)", "path_to_pdf": "/StatePDF/uttarpradesh/cattle/hariana.pdf" },
+        { "name": "Kenkatha (Cattle)", "path_to_pdf": "/StatePDF/uttarpradesh/cattle/kenkatha.pdf" },
+        { "name": "Kherigarh (Cattle)", "path_to_pdf": "/StatePDF/uttarpradesh/cattle/kherigarh.pdf" },
+        { "name": "Mewati (Cattle)", "path_to_pdf": "/StatePDF/uttarpradesh/cattle/mewati.pdf" },
+        { "name": "Ponwar (Cattle)", "path_to_pdf": "/StatePDF/uttarpradesh/cattle/ponwar.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "(Chicken)", "path_to_pdf": "/StatePDF/uttarpradesh/chicken/" }
+      ]
+    },
+    {
+        "animalname": "Donkey",
+        "subtypes": [
+          { "name": "(Donkey)", "path_to_pdf": "/StatePDF/uttarpradesh/donkey/" }
+        ]
+      },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/uttarpradesh/duck/" }
+      ]
+    },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Barbari (Goat)", "path_to_pdf": "/StatePDF/uttarpradesh/goat/barbari.pdf" },
+        { "name": "Jamunapari (Goat)", "path_to_pdf": "/StatePDF/uttarpradesh/goat/jamunapari.pdf" },
+        { "name": "Kahmi (Goat)", "path_to_pdf": "/StatePDF/uttarpradesh/goat/kahmi.pdf" },
+        { "name": "Pantja (Goat)", "path_to_pdf": "/StatePDF/uttarpradesh/goat/pantja.pdf" },
+        { "name": "Rohilkhandi (Goat)", "path_to_pdf": "/StatePDF/uttarpradesh/goat/rohilkhandi.pdf" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/uttarpradesh/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "Ghurrah.PDF(Pig)", "path_to_pdf": "/StatePDF/uttarpradesh/pig/ghurrah.pdf" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Jalauni (Sheep)", "path_to_pdf": "/StatePDF/uttarpradesh/sheep/jalauni.pdf" },
+        { "name": "Muzzafarnagari (Sheep)", "path_to_pdf": "/StatePDF/uttarpradesh/sheep/muzzafarnagari.pdf" }
+      ]
+    },
+    {
+        "animalname": "Yak",
+        "subtypes": [
+          { "name": "(Yak)", "path_to_pdf": "/StatePDF/uttarpradesh/yak/" }
+        ]
+      }
+  ]
+    },
+  
+    {
+      "state_name": "Uttarakhand",
+     "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "Gojri Buffalo (Buffalo)", "path_to_pdf": "/StatePDF/uttarakhand/buffalo/gojri-buffalo.pdf" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "(Camel)", "path_to_pdf": "/StatePDF/uttarakhand/camel/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Badri (Cattle)", "path_to_pdf": "/StatePDF/uttarakhand/cattle/badri.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Uttara (Chicken)", "path_to_pdf": "/StatePDF/uttarakhand/chicken/uttara.pdf" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/uttarakhand/dog/" }
+      ]
+    },
+    {
+        "animalname": "Donkey",
+        "subtypes": [
+          { "name": "(Donkey)", "path_to_pdf": "/StatePDF/uttarakhand/donkey/" }
+        ]
+      },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/uttarakhand/duck/" }
+      ]
+    },
+    {
+        "animalname": "Fowl",
+        "subtypes": [
+          { "name": "(Fowl)", "path_to_pdf": "/StatePDF/uttarakhand/fowl/" }
+        ]
+      },
+      {
+        "animalname": "Geese",
+        "subtypes": [
+          { "name": "(Geese)", "path_to_pdf": "/StatePDF/uttarakhand/geese/" }
+        ]
+      },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Pantja (Goat)", "path_to_pdf": "/StatePDF/uttarakhand/goat/pantja.pdf" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "(Horse & Pony)", "path_to_pdf": "/StatePDF/uttarakhand/horse-&-pony/" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "(Pig)", "path_to_pdf": "/StatePDF/uttarakhand/pig" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Muzzafarnagari (Sheep)", "path_to_pdf": "/StatePDF/uttarakhand/sheep/muzzafarnagari.pdf" }
+      ]
+    },
+    {
+        "animalname": "Yak",
+        "subtypes": [
+          { "name": "(Yak)", "path_to_pdf": "/StatePDF/uttarakhand/yak/" }
+        ]
+      }
+  ]
+    },
+   
+    {
+      "state_name": "West Bengal",
+      "animals": [
+    {
+      "animalname": "Buffalo",
+      "subtypes": [
+        { "name": "(Buffalo)", "path_to_pdf": "/StatePDF/westbengal/buffalo/" }
+      ]
+    },
+    {
+      "animalname": "Camel",
+      "subtypes": [
+        { "name": "(Camel)", "path_to_pdf": "/StatePDF/westbengal/camel/" }
+      ]
+    },
+    {
+      "animalname": "Cattle",
+      "subtypes": [
+        { "name": "Siri (Cattle)", "path_to_pdf": "/StatePDF/westbengal/cattle/siri.pdf" }
+      ]
+    },
+    {
+      "animalname": "Chicken",
+      "subtypes": [
+        { "name": "Harringhata Black (Chicken)", "path_to_pdf": "/StatePDF/westbengal/chicken/harringhata-black.pdf" }
+      ]
+    },
+    {
+      "animalname": "Dog",
+      "subtypes": [
+        { "name": "(Dog)", "path_to_pdf": "/StatePDF/westbengal/dog/" }
+      ]
+    },
+    {
+        "animalname": "Donkey",
+        "subtypes": [
+          { "name": "(Donkey)", "path_to_pdf": "/StatePDF/westbengal/donkey/" }
+        ]
+      },
+    {
+      "animalname": "Duck",
+      "subtypes": [
+        { "name": "(Duck)", "path_to_pdf": "/StatePDF/westbengal/duck/" }
+      ]
+    },
+    {
+        "animalname": "Fowl",
+        "subtypes": [
+          { "name": "(Fowl)", "path_to_pdf": "/StatePDF/westbengal/fowl/" }
+        ]
+      },
+      {
+        "animalname": "Geese",
+        "subtypes": [
+          { "name": "(Geese)", "path_to_pdf": "/StatePDF/westbengal/geese/" }
+        ]
+      },
+    {
+      "animalname": "Goat",
+      "subtypes": [
+        { "name": "Black Bengal (Goat)", "path_to_pdf": "/StatePDF/westbengal/goat/black-bengal.pdf" }
+      ]
+    },
+    {
+      "animalname": "Horse & Pony",
+      "subtypes": [
+        { "name": "Bhutia (Horse & Pony)", "path_to_pdf": "/StatePDF/westbengal/horse-&-pony/bhutia.pdf" }
+      ]
+    },
+    {
+      "animalname": "Pig",
+      "subtypes": [
+        { "name": "Ghongroo (Pig)", "path_to_pdf": "/StatePDF/westbengal/pig/ghongroo.pdf" }
+      ]
+    },
+    {
+      "animalname": "Sheep",
+      "subtypes": [
+        { "name": "Garole (Sheep)", "path_to_pdf": "/StatePDF/westbengal/sheep/garole.pdf" }
+      ]
+    },
+    {
+        "animalname": "Yak",
+        "subtypes": [
+          { "name": "(Yak)", "path_to_pdf": "/StatePDF/westbengal/yak/" }
+        ]
+      }
+  ]
     }
   ]
 }

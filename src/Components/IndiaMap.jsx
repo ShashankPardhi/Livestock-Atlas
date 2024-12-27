@@ -95,7 +95,7 @@ const IndiaMap = () => {
         {/* Map Section */}
         <div
           id="chartdiv"
-          className="w-full h-[40vh] md:h-[70vh] lg:h-[80vh] xl:h-[85vh] border-4 border-pink-300 rounded-lg shadow-lg mb-4"
+          className="w-full h-[40vh] md:h-[70vh] lg:h-[80vh] xl:h-[85vh] mb-2"
         ></div>
 
         {/* PDF Links Section */}
